@@ -1,0 +1,1 @@
+A stepper controller for Arduino with easing. Supports communication over serial via USB by a properitary protocol.
