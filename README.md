@@ -1,0 +1,1 @@
+A arduino stepper motor controller which supports easing. Supports coomunication over serial via USB in a properitary format.  
